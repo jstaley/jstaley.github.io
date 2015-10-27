@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
@@ -33,3 +34,6 @@ The contents of this repository are licensed under the [Apache
 
 ## Version
 1.0.1
+=======
+# jstaley.gihub.io
+>>>>>>> 430a2c8e3bc604aa0d22969ecaceaca96bcaee9b
