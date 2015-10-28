@@ -5,4 +5,4 @@ category: Services
 title: VMware vRealize Automation/Orchestrator
 description: |
 ---
-  I have been using vRealize Automation and Orchestration along with CI tools such as chef integrating into the private and public clouds to break down the walls between operations and development. Automating operations processes into one easy to use format reduces errors and creates repeatable senarios that speeds up time to delivery.
+  I have been using vRealize Automation and Orchestration along with CI tools such as chef integrating workflows into the private and public clouds to break down the walls between operations and development. Automating operational processes into one easy to use tool reduces errors and creates repeatable scenarios that speeds up time to delivery.

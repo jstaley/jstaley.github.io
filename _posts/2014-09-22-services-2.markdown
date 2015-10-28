@@ -2,7 +2,7 @@
 layout: default
 img: mouse.png
 category: Services
-title: VMware vSphere
+title: VMware vSphere/Virtualization
 description: |
 ---
   Turn your 2D designs into high quality, 3D

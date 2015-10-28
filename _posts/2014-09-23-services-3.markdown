@@ -5,4 +5,4 @@ category: Services
 title: Server Engineering
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Experienced in Windows and Linux Server Engineering. Developing automated server installs utilizing a variety of scripting languages including Powershell, Perl, Python and programming Restfull APIs.
